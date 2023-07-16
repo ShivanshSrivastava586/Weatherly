@@ -1,3 +1,4 @@
 # Weatherly
 A web based weather application
-run node src/app.js -e js,hbs 
+
+Run node src/app.js -e js,hbs 
